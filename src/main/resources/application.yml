@@ -6,4 +6,4 @@ app:
 
 backend:
   host: ${BACKEND_HOST:localhost}
-  port: ${BACKEND_PORT:8001}
+  port: ${BACKEND_PORT:8080}
